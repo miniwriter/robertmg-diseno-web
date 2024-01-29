@@ -3,7 +3,7 @@
 Robert MG Soy diseñador de páginas web y consultor SEO ubicado en Madrid. Llevo cuatro años como freelance proporcionando mis servicios a empresas y particulares en [**Diseño Web**](https://www.robertmg.com/) además de mantenimiento WordPress. Principalmente realizo diseños web para PYMES y autónomos que necesitan tener presencia en internet o vender sus productos online. Poniendo en valor la identidad de marca lograremos una web con un diseño limpio, creativo, consistente, a la vez que rápido y seguro.
 
 <p align="center">
-<div class="separator" style="clear: both;">
+
   <a
     href="https://www.robertmg.com/"
     style="border-bottom: none; display: block; padding: 1em 0px; text-align: center;"
@@ -15,7 +15,7 @@ Robert MG Soy diseñador de páginas web y consultor SEO ubicado en Madrid. Llev
       data-original-width="518"
       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Q_cLID8mLrr7hf4C19ytXULieJvhy44axb3Mmgvlt_MyT6C21WtC_wiJYvCaN-6JKgT63eVAzBRiEEmgj5WhyphenhyphenCo-bdL9RnNCkhxrqoHSRTyzul2xD8F2ytm163e-irgG-sfGkQw01xQyYtC2vdTeMc7wiqA0BZtb3HVjqUo1ehIMu3A4LWThTkFCX9VO/s1600/logo%20png.png"
   /></a>
-</div>
+
 </p>
 
 Para las personas y empresas que buscan crear una gran presencia en línea, un diseño limpio, imaginativo y unificado es esencial. La capacidad de atención de los usuarios es corta en el mundo digital, por lo que un sitio web atractivo puede atraerlos e incitarlos a explorar más. Además de mejorar la experiencia del usuario, una interfaz bien diseñada también habla favorablemente de la autoridad y competencia de la organización que creó el sitio web. Generar confianza y lealtad a la marca requiere coherencia en los componentes del diseño, como combinaciones de colores, tipografía y diseño, que fortalecen una identidad cohesiva y promueven el conocimiento de la marca.
